@@ -1,0 +1,16 @@
+[
+  {
+    "name" : "The Witcher 3",
+    "price" : 59.99,
+    "rating" : 5,
+    "maxPlayers" : 1,
+    "minimumAge" : 18
+  },
+  {
+    "name": "Cities: Skylines",
+    "price": 39.99,
+    "rating": 4,
+    "maxPlayers": 2,
+    "minimumAge": 12
+  }
+]
